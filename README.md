@@ -1,11 +1,12 @@
-# ReinforcementLearning
+# Reinforcement Learning
 A Reinforcement Learning bot Playing Pong game based on Atari Video Game
 
 ## About Pong
 > Pong is one of the earliest arcade video games, featuring basic two-dimensional graphics in a table tennis sports format. The game was first produced by Atari and released in 1972.
 
 
-![Uploading image.png…]()
+<img width="344" alt="image" src="https://github.com/user-attachments/assets/3e891983-447f-46d0-aa58-f209948a4784">
+
 
 ## Implemenation
 > 1. Implementation leverages TF-Agents, focusing on selecting an efficient optimizer and the appropriate replay buffer size.
