@@ -1,2 +1,5 @@
 # ReinforcementLearning
-Reinforcement Learning with Pong Game
+A Reinforcement Learning bot Playing Pong game based on Atari Video Game
+
+
+
